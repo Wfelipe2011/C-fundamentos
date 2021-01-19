@@ -1,0 +1,13 @@
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.exe
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.deps.json
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.runtimeconfig.json
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.runtimeconfig.dev.json
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.dll
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\bin\Debug\netcoreapp3.1\Hello_World.pdb
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.csprojAssemblyReference.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.AssemblyInfoInputs.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.AssemblyInfo.cs
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.dll
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.pdb
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Hello_World\Hello_World\obj\Debug\netcoreapp3.1\Hello_World.genruntimeconfig.cache
