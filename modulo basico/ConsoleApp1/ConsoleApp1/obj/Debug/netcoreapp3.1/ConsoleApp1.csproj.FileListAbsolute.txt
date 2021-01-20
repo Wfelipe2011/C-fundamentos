@@ -1,0 +1,13 @@
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
