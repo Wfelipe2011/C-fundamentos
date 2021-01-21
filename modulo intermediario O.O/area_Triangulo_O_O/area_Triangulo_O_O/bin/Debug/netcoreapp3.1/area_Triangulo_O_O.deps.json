@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "area_Triangulo_O_O/1.0.0": {
+        "runtime": {
+          "area_Triangulo_O_O.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "area_Triangulo_O_O/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
