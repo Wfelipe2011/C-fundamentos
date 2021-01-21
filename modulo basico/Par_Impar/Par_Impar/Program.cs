@@ -11,14 +11,21 @@ namespace Par_Impar
             Console.WriteLine("----------------------");
             Console.WriteLine("Digite um numero e descubra se ele é Par ou Impar!");
             int x = int.Parse(Console.ReadLine());
-
-            if (x % 2 == 0)
+            while (x != 0)
             {
-                Console.WriteLine("Par!");
-            }else
-            {
-                Console.WriteLine("Impar!");
+                if (x % 2 == 0)
+                {
+                    Console.WriteLine("Par!");
+                }
+                else
+                {
+                    Console.WriteLine("Impar!");
+                }
+                Console.Write("Digite outro numero para continuar ou Zero para terminar: ");
+                x = int.Parse(Console.ReadLine());
+                Console.WriteLine("----------------------");
             }
+            
         }
     }
 }

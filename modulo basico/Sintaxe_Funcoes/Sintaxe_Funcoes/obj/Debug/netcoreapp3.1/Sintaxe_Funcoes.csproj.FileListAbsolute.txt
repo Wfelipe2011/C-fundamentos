@@ -1,0 +1,13 @@
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\bin\Debug\netcoreapp3.1\Sintaxe_Funcoes.exe
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\bin\Debug\netcoreapp3.1\Sintaxe_Funcoes.deps.json
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\bin\Debug\netcoreapp3.1\Sintaxe_Funcoes.runtimeconfig.json
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\bin\Debug\netcoreapp3.1\Sintaxe_Funcoes.runtimeconfig.dev.json
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\bin\Debug\netcoreapp3.1\Sintaxe_Funcoes.dll
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\bin\Debug\netcoreapp3.1\Sintaxe_Funcoes.pdb
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.csprojAssemblyReference.cache
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.AssemblyInfoInputs.cache
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.AssemblyInfo.cs
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.dll
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.pdb
+C:\Users\wilso\source\repos\Sintaxe_Funcoes\Sintaxe_Funcoes\obj\Debug\netcoreapp3.1\Sintaxe_Funcoes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\bin\Debug\netcoreapp3.1\Controle_Estoque.exe
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\bin\Debug\netcoreapp3.1\Controle_Estoque.deps.json
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\bin\Debug\netcoreapp3.1\Controle_Estoque.runtimeconfig.json
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\bin\Debug\netcoreapp3.1\Controle_Estoque.runtimeconfig.dev.json
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\bin\Debug\netcoreapp3.1\Controle_Estoque.dll
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\bin\Debug\netcoreapp3.1\Controle_Estoque.pdb
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.csprojAssemblyReference.cache
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.AssemblyInfoInputs.cache
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.AssemblyInfo.cs
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.dll
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.pdb
+C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Controle_Estoque\Controle_Estoque\obj\Debug\netcoreapp3.1\Controle_Estoque.genruntimeconfig.cache
