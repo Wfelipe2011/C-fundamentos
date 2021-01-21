@@ -11,3 +11,16 @@ C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#
 C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.dll
 C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.pdb
 C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.genruntimeconfig.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.exe
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.deps.json
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.runtimeconfig.json
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.runtimeconfig.dev.json
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.dll
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\bin\Debug\netcoreapp3.1\Par_Impar.pdb
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.csprojAssemblyReference.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.AssemblyInfoInputs.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.AssemblyInfo.cs
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.dll
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.pdb
+C:\Users\wilso\Desktop\Work Space\C#\modulo basico\Par_Impar\Par_Impar\obj\Debug\netcoreapp3.1\Par_Impar.genruntimeconfig.cache
