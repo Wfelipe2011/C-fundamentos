@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\Wilson Felipe\Desktop\Analise Desenvolvimento de Sistemas\Work Space\C#\C-fundamentos\modulo basico\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
 </Project>
