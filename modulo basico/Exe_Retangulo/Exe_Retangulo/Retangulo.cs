@@ -6,13 +6,23 @@ namespace Exe_Retangulo
 {
     class Retangulo
     {
-        public int Largura;
-        public int Altura;
+        public double Largura;
+        public double Altura;
 
 
-        public int Area()
+        public double Area()
         {
             return Largura * Altura;
+        }
+
+        public double Diagonal()
+        {
+            return Math.Sqrt((Math.Pow(Largura, 2) + (Math.Pow(Altura, 2))));
+        }
+
+        public double Perimetro()
+        {
+            return (Largura * 2) + (Altura * 2);
         }
     }
 }
