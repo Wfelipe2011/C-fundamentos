@@ -31,6 +31,7 @@ namespace ContaBancaria
             char x;
             Console.Write("Voce deseja realizar um Saque ou Deposito? (s/d): ");
             x = char.Parse(Console.ReadLine());
+            Console.WriteLine();
             while (x != 'n')
             {
                 if (x == 'd')
@@ -44,13 +45,28 @@ namespace ContaBancaria
                 }
                 else if (x == 's')
                 {
-                    Console.Write("Entre com o valor para Saque: ");
-                    initdeposito = double.Parse(Console.ReadLine(), CI);
-                    c.Saque(initdeposito);
                     Console.WriteLine("Saque tem uma taxa de R$ 5.00: ");
-                    Console.WriteLine("Dados da conta: ");
-                    Console.WriteLine(c);
-                    Console.WriteLine();
+                    if (c.Saldo < 0)
+                    {
+                        Console.Write("Saldo insuficiente: " + c.Saldo.ToString("F2"));
+                    }else
+                    {
+                        Console.Write("Entre com o valor para Saque: ");
+                        initdeposito = double.Parse(Console.ReadLine(), CI);
+                        if (initdeposito + 5 > c.Saldo)
+                        {
+                            Console.Write("Saldo insuficiente; " + c.Saldo.ToString("F2"));
+                        }else
+                        {
+                            c.Saque(initdeposito);
+                            
+                            Console.WriteLine("Dados da conta: ");
+                            Console.WriteLine(c);
+                            Console.WriteLine();
+                        }
+                        
+                    }
+                    
                 }
                 else
                 {
@@ -61,6 +77,7 @@ namespace ContaBancaria
                 Console.WriteLine("Voce deseja realizar um Saque ou Deposito? (s/d): ");
                 Console.Write("Para encerrar aperte (n): ");
                 x = char.Parse(Console.ReadLine());
+                Console.WriteLine();
             }
             Console.Write("Obrigado pela operação! ");
 

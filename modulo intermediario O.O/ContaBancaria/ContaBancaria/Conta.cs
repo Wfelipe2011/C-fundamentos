@@ -7,9 +7,9 @@ namespace ContaBancaria
 {
     class Conta
     {
-        public string Nome { get; private set; }
-        public int ContaDig { get; set; }
-        private double Saldo;
+        public string Nome { get;  set; }
+        public int ContaDig { get; private set; }
+        public double Saldo { get; private set; }
 
 
         public Conta(string nome, int contaDig)
@@ -19,7 +19,7 @@ namespace ContaBancaria
             
         }
 
-        public void  Deposito(double x)
+        public void Deposito(double x)
         {
             Saldo = Saldo + x;
         }
@@ -31,7 +31,7 @@ namespace ContaBancaria
 
         public override string ToString()
         {
-            return Nome + ", " + ContaDig + ", " + "Saldo: $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
+            return "Titular: " + Nome + ", Conta: " + ContaDig  + " Saldo: $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }   
