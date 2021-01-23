@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Text;
 
 namespace ContaBancaria
@@ -18,14 +19,19 @@ namespace ContaBancaria
             
         }
 
-        public void Deposito(double x)
+        public void  Deposito(double x)
         {
             Saldo = Saldo + x;
         }
 
         public void Saque(double x)
         {
-            Saldo = Saldo - x;
+            Saldo = Saldo - x - 5.00;
+        }
+
+        public override string ToString()
+        {
+            return Nome + ", " + ContaDig + ", " + "Saldo: $" + Saldo.ToString("F2", CultureInfo.InvariantCulture);
         }
 
     }   

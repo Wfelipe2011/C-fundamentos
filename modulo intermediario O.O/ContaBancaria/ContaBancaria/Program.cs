@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ContaBancaria
 {
@@ -6,6 +7,7 @@ namespace ContaBancaria
     {
         static void Main(string[] args)
         {
+            CultureInfo CI = CultureInfo.InvariantCulture;
             Console.WriteLine("Seja Bem vido ao WFBank");
             Console.WriteLine();
 
@@ -16,14 +18,51 @@ namespace ContaBancaria
             Console.Write("Haverá depósito inicial? (s/n): ");
             char ch = char.Parse(Console.ReadLine());
             double initdeposito = 0;
-            Conta c = new Conta();
+            Conta c = new Conta(nome, conta);
             if (ch == 's')
             {
                 Console.Write("Entre com o valor do depósito: ");
-                initdeposito = double.Parse(Console.ReadLine());
+                initdeposito = double.Parse(Console.ReadLine(), CI);
+                c.Deposito(initdeposito);
             }
-            Console.WriteLine();
+            Console.WriteLine("Dados da conta: ");
             Console.WriteLine(c);
+            Console.WriteLine();
+            char x;
+            Console.Write("Voce deseja realizar um Saque ou Deposito? (s/d): ");
+            x = char.Parse(Console.ReadLine());
+            while (x != 'n')
+            {
+                if (x == 'd')
+                {
+                    Console.Write("Entre com o valor do depósito: ");
+                    initdeposito = double.Parse(Console.ReadLine(), CI);
+                    c.Deposito(initdeposito);
+                    Console.WriteLine("Dados da conta: ");
+                    Console.WriteLine(c);
+                    Console.WriteLine();
+                }
+                else if (x == 's')
+                {
+                    Console.Write("Entre com o valor para Saque: ");
+                    initdeposito = double.Parse(Console.ReadLine(), CI);
+                    c.Saque(initdeposito);
+                    Console.WriteLine("Saque tem uma taxa de R$ 5.00: ");
+                    Console.WriteLine("Dados da conta: ");
+                    Console.WriteLine(c);
+                    Console.WriteLine();
+                }
+                else
+                {
+                    Console.Write("Erro! Operação invalida. ");
+                }
+
+                Console.WriteLine();
+                Console.WriteLine("Voce deseja realizar um Saque ou Deposito? (s/d): ");
+                Console.Write("Para encerrar aperte (n): ");
+                x = char.Parse(Console.ReadLine());
+            }
+            Console.Write("Obrigado pela operação! ");
 
 
         }

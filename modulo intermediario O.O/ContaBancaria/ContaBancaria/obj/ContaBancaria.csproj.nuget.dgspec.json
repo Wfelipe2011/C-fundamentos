@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wilson Felipe\\Desktop\\Analise Desenvolvimento de Sistemas\\Work Space\\C#\\C-fundamentos\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {}
+    "C:\\Users\\wilso\\Desktop\\Work Space\\C#\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wilson Felipe\\Desktop\\Analise Desenvolvimento de Sistemas\\Work Space\\C#\\C-fundamentos\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {
+    "C:\\Users\\wilso\\Desktop\\Work Space\\C#\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wilson Felipe\\Desktop\\Analise Desenvolvimento de Sistemas\\Work Space\\C#\\C-fundamentos\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
+        "projectUniqueName": "C:\\Users\\wilso\\Desktop\\Work Space\\C#\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
         "projectName": "ContaBancaria",
-        "projectPath": "C:\\Users\\Wilson Felipe\\Desktop\\Analise Desenvolvimento de Sistemas\\Work Space\\C#\\C-fundamentos\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
-        "packagesPath": "C:\\Users\\Wilson Felipe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wilson Felipe\\Desktop\\Analise Desenvolvimento de Sistemas\\Work Space\\C#\\C-fundamentos\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\obj\\",
+        "projectPath": "C:\\Users\\wilso\\Desktop\\Work Space\\C#\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\ContaBancaria.csproj",
+        "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\wilso\\Desktop\\Work Space\\C#\\modulo intermediario O.O\\ContaBancaria\\ContaBancaria\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Wilson Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\wilso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
